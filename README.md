@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/88992224?s=200&v=4" width="128" />
 <h1> FastForward </h1>
-<p> Don't waste your time with compliance. FastForward automatically skips annoying link shorteners. </p>
+<p> Compliance sucks, don't waste your time with it. </p>
 
 
 [<img src="https://badgen.net/github/checks/FastForwardTeam/FastForward?label=Build" />](https://github.com/FastForwardTeam/FastForward/blob/main/.github/workflows/main.yml)
@@ -11,20 +11,18 @@
 <a href="https://addons.mozilla.org/firefox/addon/fastforwardteam/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get FastForward for Firefox" width="126px"></a> 
 </div>
 
-> **FastForward has been removed from Chrome Web Store.**
-> **Join our [Discord server](https://discord.gg/RSAf7b5njt) for more details about.**
+> **NoCompliance is still in development!**
+> **Please wait for us to release it.**
 
 # About
-## What is FastForward?
-FastForward is the successor of Universal Bypass (see below), a browser extension that can bypass annoying link shorteners, so you don't need to waste your time _trying_ to get on the final link.
-
-You can see the extension in action in [our official website](https://fastforward.team/example-links).
+## What is NoCompliance?
+NoCompliance is a fork of FastForward, a browser extension that was a successor to Universal Bypass (see below) however, FastForward's team decided to stop bypassing Linkvertise and had many issues with the extension (as referenced by the amount of unclosed issues) they also stopped bypassing KRNL's key system, so NoCompliance is designed to patch the hole they put into their extension.
 
 ## What happened to Universal Bypass?
 As you may know, [Universal Bypass](https://github.com/Sainan/Universal-Bypass) is no longer maintained by its original developer, [Sainan](https://github.com/Sainan), who had worked on it for so long.\
 Thanks Sainan for your hard work.
 
-## Does FastForward have a Discord server?
+## Does NoCompliance have a Discord server?
 Yes! We do, and if you are interested in assisting the development, need help or just wanna hang out, you can [click here to join](https://discord.gg/RSAf7b5njt) to our server.
 
 <!-- i will use this later [<img src="https://i.ibb.co/X70qCQx/Discord-Logo-Color.png" width="40" />](https://discord.gg/RSAf7b5njt) -->

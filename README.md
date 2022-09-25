@@ -16,7 +16,7 @@
 
 # About
 ## What is NoCompliance?
-NoCompliance is a fork of FastForward, a browser extension that was a successor to Universal Bypass (see below) however, FastForward's team decided to stop bypassing Linkvertise and NoCompliance is to fix that, alongside adding way more compatibility and bypasses!
+NoCompliance is a fork of FastForward, a browser extension that was a successor to Universal Bypass (see below) however, NoCompliance is about adding way more compatibility and bypasses, alongside better community made configs for clients.
 
 > We will add some community-made custom configs too!
 
